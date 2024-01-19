@@ -98,7 +98,7 @@
     height: 20px;
 }
 .search-bar:hover{
-    width: 600px;
+    width: 700px;
     
 }
 .name{
@@ -145,7 +145,7 @@
 
 .overlay:hover 
 {
-    opacity: 0.5;
+    opacity: 1;
 }
 
 .video 
