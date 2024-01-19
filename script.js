@@ -119,6 +119,7 @@ let movies = [
     }    
 
 ];
+let hey=("NO RESULT FOUND")
 
 function searchProduct() {
     let movieName = document.getElementById('search').value;
@@ -129,7 +130,7 @@ function searchProduct() {
         });
         displayproduct(result);
     } else {
-        displayproduct(movies);
+        displayproduct(hey);
     }
 }
 
