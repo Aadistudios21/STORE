@@ -103,7 +103,7 @@
 }
 .name{
     font-size: x-large;
-    padding-top: 60px;
+    padding-top: 10px;
     color: white;
     padding-left: 0px;
 }
@@ -145,7 +145,7 @@
 
 .overlay:hover 
 {
-    opacity: 1;
+    opacity: 0.5;
 }
 
 .video 
